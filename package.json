@@ -2,11 +2,10 @@
   "name": "aron-project",
   "version": "1.0.0",
   "type": "module",
-"scripts": {
-  "dev": "vite",
-  "build": "npx vite build",
-  "preview": "vite preview"
-},
+  "scripts": {
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
   },
   "keywords": [
     "freecodecamp"
